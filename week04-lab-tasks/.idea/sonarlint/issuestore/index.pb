@@ -7,3 +7,9 @@ R
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 N
 src/main/java/day01/Actor.java,0/6/065d96c480b99dca77729689ed4af1f0599f78cc
+R
+"src/test/java/day01/ActorTest.java,7/7/774ed197d7bc96d875fd06bc546b1aa67a35e612
+Z
+*src/main/java/day03/StockExchangeMain.java,8/e/8ecb2d28ddd9441c42beffce8cdfeb7a46e6571d
+N
+src/main/java/day03/Stock.java,f/0/f0f691755e6a60f8c5dfa717e62cdb34d37ad925
